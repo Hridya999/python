@@ -10,6 +10,3 @@ while(i <= num1 and i <= num2):
   i = i + 1
 print("GCD is", gcd)
 
-#method2
-# import math
-# print(math.gcd(x,y))
