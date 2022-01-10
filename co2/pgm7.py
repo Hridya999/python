@@ -6,10 +6,3 @@ if str.endswith("ing"):
 else:
     str = str + "ing"
 print("modified string is:", str)
-
-# method 2
-
-# if s[-3:]=="ing":
-#     print(s+"ly")
-# else:
-# print(s+"ing")
