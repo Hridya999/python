@@ -1,6 +1,6 @@
 # Merge two dictionaries
 
-dict1={"Anas":1,"Vishnu":18,"Vyshnav":17,"Akshay":5}
-dict2={"Lijas":7,"Murshid":19,"Nideesh":2,"Niranjan":8,"Gokul":12}
+dict1={"nidhina":1,"megha":18,"nandhana":17,"hridya":5}
+dict2={"anusree":7,"athira":19,"vismaya":2,"priyanka":8,"aparna":12}
 dict1.update(dict2)
 print("Merged : ",dict1)
